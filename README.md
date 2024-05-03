@@ -19,7 +19,18 @@ However, that doesn't discourage me; on the contrary, I find it quite fascinatin
  - **Kali Linux Virtual Machine**
 
 ***Make sure that you have Virtual Machine like Kali Linux or another and have an Elastic account***
-## Let's Start
+
+## Table of Contents
+
+**[1. Setting up the Agent to collect logs](#1-setting-up-the-agent-to-collect-logs)**
+
+**[2. Visualization](#2-visulization)**
+
+**[3. Create Alerts](#3-create-alerts)**
+
+**[4. Result](#4-result)**
+
+## Let's Start 🔥
 
 ### 1/ Setting up the Agent to collect logs
 First, Click to the "hamburger" menu bar on the top of the left, then selecting "Add integrations"
